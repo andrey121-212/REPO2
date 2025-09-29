@@ -1,0 +1,80 @@
+﻿using System; // Подключаем пространство имен System для работы с базовыми функциями (Console, Random)
+
+public class GuessTheNumberGame
+{
+    // Точка входа в программу. Метод Main выполняется при запуске приложения.
+    public static void Main(string[] args)
+    {
+        // 1. Генерация случайного числа
+        // Создаем экземпляр класса Random для генерации псевдослучайных чисел.
+        Random random = new Random();
+
+        // Генерируем случайное целое число.
+        // random.Next(min, max) возвращает число от min (включительно) до max (не включительно).
+        // Поэтому для диапазона 1-100 указываем (1, 101).
+        int secretNumber = random.Next(1, 101);
+
+        // Инициализация переменных для игры.
+        int userGuess = 0;   // Здесь будет храниться число, введенное пользователем.
+        int attempts = 0;    // Счетчик попыток пользователя.
+        bool hasGuessed = false; // Флаг, который станет true, когда пользователь угадает число.
+
+        // 2. Приветствие и правила игры
+        Console.WriteLine("***************************************");
+        Console.WriteLine("    Добро пожаловать в 'Угадай число'!    ");
+        Console.WriteLine("***************************************");
+        Console.WriteLine("Я загадал число от 1 до 100.");
+        Console.WriteLine("Попробуйте угадать его!");
+
+        // 3. Основной игровой цикл
+        // Цикл будет продолжаться до тех пор, пока пользователь не угадает число (hasGuessed не станет true).
+        while (!hasGuessed)
+        {
+            Console.Write("\nВведите ваше предположение (число от 1 до 100): ");
+            string userInput = Console.ReadLine(); // Считываем ввод пользователя как строку
+
+            // 4. Валидация ввода пользователя
+            // Пытаемся преобразовать введенную строку в целое число.
+            // int.TryParse() безопаснее, чем int.Parse(), так как не выбрасывает исключение при некорректном вводе.
+            if (int.TryParse(userInput, out userGuess))
+            {
+                // Увеличиваем счетчик попыток только при корректном числовом вводе.
+                attempts++;
+
+                // 5. Предоставление подсказок
+                if (userGuess < secretNumber)
+                {
+                    Console.ForegroundColor = ConsoleColor.Yellow; // Изменяем цвет текста для подсказки
+                    Console.WriteLine("Подсказка: Загаданное число БОЛЬШЕ, чем " + userGuess + ".");
+                    Console.ResetColor(); // Возвращаем цвет текста по умолчанию
+                }
+                else if (userGuess > secretNumber)
+                {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine("Подсказка: Загаданное число МЕНЬШЕ, чем " + userGuess + ".");
+                    Console.ResetColor();
+                }
+                else // userGuess == secretNumber
+                {
+                    // 6. Успешное угадывание
+                    hasGuessed = true; // Устанавливаем флаг, чтобы выйти из цикла
+                    Console.ForegroundColor = ConsoleColor.Green; // Зеленый цвет для победного сообщения
+                    Console.WriteLine($"\nПОЗДРАВЛЯЕМ! Вы угадали число {secretNumber}!");
+                    Console.WriteLine($"Вам потребовалось {attempts} попыток.");
+                    Console.ResetColor();
+                }
+            }
+            else
+            {
+                // Сообщение об ошибке, если ввод был не числом.
+                Console.ForegroundColor = ConsoleColor.Red; // Красный цвет для сообщения об ошибке
+                Console.WriteLine("Некорректный ввод. Пожалуйста, введите целое число.");
+                Console.ResetColor();
+            }
+        }
+
+        // 7. Завершение игры
+        Console.WriteLine("\nСпасибо за игру! Нажмите любую клавишу для выхода...");
+        Console.ReadKey(); // Ожидаем нажатия любой клавиши, чтобы консольное окно не закрылось сразу.
+    }
+}
