@@ -1,0 +1,14 @@
+D:\Практика\2.8\2.8\bin\Debug\net8.0\2.8.exe
+D:\Практика\2.8\2.8\bin\Debug\net8.0\2.8.deps.json
+D:\Практика\2.8\2.8\bin\Debug\net8.0\2.8.runtimeconfig.json
+D:\Практика\2.8\2.8\bin\Debug\net8.0\2.8.dll
+D:\Практика\2.8\2.8\bin\Debug\net8.0\2.8.pdb
+D:\Практика\2.8\2.8\obj\Debug\net8.0\2.8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\2.8\2.8\obj\Debug\net8.0\2.8.AssemblyInfoInputs.cache
+D:\Практика\2.8\2.8\obj\Debug\net8.0\2.8.AssemblyInfo.cs
+D:\Практика\2.8\2.8\obj\Debug\net8.0\2.8.csproj.CoreCompileInputs.cache
+D:\Практика\2.8\2.8\obj\Debug\net8.0\2.8.dll
+D:\Практика\2.8\2.8\obj\Debug\net8.0\refint\2.8.dll
+D:\Практика\2.8\2.8\obj\Debug\net8.0\2.8.pdb
+D:\Практика\2.8\2.8\obj\Debug\net8.0\2.8.genruntimeconfig.cache
+D:\Практика\2.8\2.8\obj\Debug\net8.0\ref\2.8.dll
