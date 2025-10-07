@@ -1,0 +1,16 @@
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\LibraryManagementSystem.BaseBook.resources
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\4.3.csproj.GenerateResource.cache
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\4.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\4.3.AssemblyInfoInputs.cache
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\4.3.AssemblyInfo.cs
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\4.3.csproj.CoreCompileInputs.cache
+D:\Практика\4.3\4.3\bin\Debug\net8.0-windows\4.3.exe
+D:\Практика\4.3\4.3\bin\Debug\net8.0-windows\4.3.deps.json
+D:\Практика\4.3\4.3\bin\Debug\net8.0-windows\4.3.runtimeconfig.json
+D:\Практика\4.3\4.3\bin\Debug\net8.0-windows\4.3.dll
+D:\Практика\4.3\4.3\bin\Debug\net8.0-windows\4.3.pdb
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\4.3.dll
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\refint\4.3.dll
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\4.3.pdb
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\4.3.genruntimeconfig.cache
+D:\Практика\4.3\4.3\obj\Debug\net8.0-windows\ref\4.3.dll
