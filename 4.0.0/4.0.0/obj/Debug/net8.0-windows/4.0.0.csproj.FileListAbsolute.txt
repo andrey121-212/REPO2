@@ -1,0 +1,16 @@
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\_4._0._0.Form1.resources
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\4.0.0.csproj.GenerateResource.cache
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\4.0.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\4.0.0.AssemblyInfoInputs.cache
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\4.0.0.AssemblyInfo.cs
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\4.0.0.csproj.CoreCompileInputs.cache
+D:\Практика\4.0.0\4.0.0\bin\Debug\net8.0-windows\4.0.0.exe
+D:\Практика\4.0.0\4.0.0\bin\Debug\net8.0-windows\4.0.0.deps.json
+D:\Практика\4.0.0\4.0.0\bin\Debug\net8.0-windows\4.0.0.runtimeconfig.json
+D:\Практика\4.0.0\4.0.0\bin\Debug\net8.0-windows\4.0.0.dll
+D:\Практика\4.0.0\4.0.0\bin\Debug\net8.0-windows\4.0.0.pdb
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\4.0.0.dll
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\refint\4.0.0.dll
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\4.0.0.pdb
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\4.0.0.genruntimeconfig.cache
+D:\Практика\4.0.0\4.0.0\obj\Debug\net8.0-windows\ref\4.0.0.dll
