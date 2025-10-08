@@ -1,0 +1,16 @@
+D:\Практика\5.4\5.4\bin\Debug\net8.0-windows\5.4.exe
+D:\Практика\5.4\5.4\bin\Debug\net8.0-windows\5.4.deps.json
+D:\Практика\5.4\5.4\bin\Debug\net8.0-windows\5.4.runtimeconfig.json
+D:\Практика\5.4\5.4\bin\Debug\net8.0-windows\5.4.dll
+D:\Практика\5.4\5.4\bin\Debug\net8.0-windows\5.4.pdb
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\ImageViewer.Form1.resources
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\5.4.csproj.GenerateResource.cache
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\5.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\5.4.AssemblyInfoInputs.cache
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\5.4.AssemblyInfo.cs
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\5.4.csproj.CoreCompileInputs.cache
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\5.4.dll
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\refint\5.4.dll
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\5.4.pdb
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\5.4.genruntimeconfig.cache
+D:\Практика\5.4\5.4\obj\Debug\net8.0-windows\ref\5.4.dll
