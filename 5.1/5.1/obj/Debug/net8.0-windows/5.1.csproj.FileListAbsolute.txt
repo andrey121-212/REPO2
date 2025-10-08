@@ -1,0 +1,16 @@
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\SimpleDrawingApp.Form1.resources
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\5.1.csproj.GenerateResource.cache
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\5.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\5.1.AssemblyInfoInputs.cache
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\5.1.AssemblyInfo.cs
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\5.1.csproj.CoreCompileInputs.cache
+D:\Практика\5.1\5.1\bin\Debug\net8.0-windows\5.1.exe
+D:\Практика\5.1\5.1\bin\Debug\net8.0-windows\5.1.deps.json
+D:\Практика\5.1\5.1\bin\Debug\net8.0-windows\5.1.runtimeconfig.json
+D:\Практика\5.1\5.1\bin\Debug\net8.0-windows\5.1.dll
+D:\Практика\5.1\5.1\bin\Debug\net8.0-windows\5.1.pdb
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\5.1.dll
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\refint\5.1.dll
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\5.1.pdb
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\5.1.genruntimeconfig.cache
+D:\Практика\5.1\5.1\obj\Debug\net8.0-windows\ref\5.1.dll
