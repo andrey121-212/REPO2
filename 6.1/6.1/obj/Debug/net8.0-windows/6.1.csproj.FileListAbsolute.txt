@@ -1,0 +1,16 @@
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\6.1.csproj.GenerateResource.cache
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\6.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\6.1.AssemblyInfoInputs.cache
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\6.1.AssemblyInfo.cs
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\6.1.csproj.CoreCompileInputs.cache
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\LibraryApp.Form1.resources
+D:\Практика\6.1\6.1\bin\Debug\net8.0-windows\6.1.exe
+D:\Практика\6.1\6.1\bin\Debug\net8.0-windows\6.1.deps.json
+D:\Практика\6.1\6.1\bin\Debug\net8.0-windows\6.1.runtimeconfig.json
+D:\Практика\6.1\6.1\bin\Debug\net8.0-windows\6.1.dll
+D:\Практика\6.1\6.1\bin\Debug\net8.0-windows\6.1.pdb
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\6.1.dll
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\refint\6.1.dll
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\6.1.pdb
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\6.1.genruntimeconfig.cache
+D:\Практика\6.1\6.1\obj\Debug\net8.0-windows\ref\6.1.dll
