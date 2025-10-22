@@ -1,0 +1,16 @@
+D:\Практика\7.1\7.1\bin\Debug\net8.0-windows\7.1.exe
+D:\Практика\7.1\7.1\bin\Debug\net8.0-windows\7.1.deps.json
+D:\Практика\7.1\7.1\bin\Debug\net8.0-windows\7.1.runtimeconfig.json
+D:\Практика\7.1\7.1\bin\Debug\net8.0-windows\7.1.dll
+D:\Практика\7.1\7.1\bin\Debug\net8.0-windows\7.1.pdb
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\7.1.csproj.GenerateResource.cache
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\7.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\7.1.AssemblyInfoInputs.cache
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\7.1.AssemblyInfo.cs
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\7.1.csproj.CoreCompileInputs.cache
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\7.1.dll
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\refint\7.1.dll
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\7.1.pdb
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\7.1.genruntimeconfig.cache
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\ref\7.1.dll
+D:\Практика\7.1\7.1\obj\Debug\net8.0-windows\BatteryDiagnostic.Form1.resources
