@@ -1,0 +1,16 @@
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\HangmanGame.Form1.resources
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\8.1.csproj.GenerateResource.cache
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\8.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\8.1.AssemblyInfoInputs.cache
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\8.1.AssemblyInfo.cs
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\8.1.csproj.CoreCompileInputs.cache
+D:\Практика\8.1\8.1\bin\Debug\net8.0-windows\8.1.exe
+D:\Практика\8.1\8.1\bin\Debug\net8.0-windows\8.1.deps.json
+D:\Практика\8.1\8.1\bin\Debug\net8.0-windows\8.1.runtimeconfig.json
+D:\Практика\8.1\8.1\bin\Debug\net8.0-windows\8.1.dll
+D:\Практика\8.1\8.1\bin\Debug\net8.0-windows\8.1.pdb
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\8.1.dll
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\refint\8.1.dll
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\8.1.pdb
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\8.1.genruntimeconfig.cache
+D:\Практика\8.1\8.1\obj\Debug\net8.0-windows\ref\8.1.dll
