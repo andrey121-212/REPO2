@@ -1,0 +1,16 @@
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\9.3.csproj.GenerateResource.cache
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\9.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\9.3.AssemblyInfoInputs.cache
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\9.3.AssemblyInfo.cs
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\9.3.csproj.CoreCompileInputs.cache
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\SimpleTaskManager.MainForm.resources
+D:\Практика\9.3\9.3\bin\Debug\net8.0-windows\9.3.exe
+D:\Практика\9.3\9.3\bin\Debug\net8.0-windows\9.3.deps.json
+D:\Практика\9.3\9.3\bin\Debug\net8.0-windows\9.3.runtimeconfig.json
+D:\Практика\9.3\9.3\bin\Debug\net8.0-windows\9.3.dll
+D:\Практика\9.3\9.3\bin\Debug\net8.0-windows\9.3.pdb
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\9.3.dll
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\refint\9.3.dll
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\9.3.pdb
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\9.3.genruntimeconfig.cache
+D:\Практика\9.3\9.3\obj\Debug\net8.0-windows\ref\9.3.dll
