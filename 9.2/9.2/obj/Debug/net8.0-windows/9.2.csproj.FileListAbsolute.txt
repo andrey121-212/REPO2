@@ -1,0 +1,16 @@
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\9.2.csproj.GenerateResource.cache
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\9.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\9.2.AssemblyInfoInputs.cache
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\9.2.AssemblyInfo.cs
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\9.2.csproj.CoreCompileInputs.cache
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\SimpleTaskManager.MainForm.resources
+D:\Практика\9.2\9.2\bin\Debug\net8.0-windows\9.2.exe
+D:\Практика\9.2\9.2\bin\Debug\net8.0-windows\9.2.deps.json
+D:\Практика\9.2\9.2\bin\Debug\net8.0-windows\9.2.runtimeconfig.json
+D:\Практика\9.2\9.2\bin\Debug\net8.0-windows\9.2.dll
+D:\Практика\9.2\9.2\bin\Debug\net8.0-windows\9.2.pdb
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\9.2.dll
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\refint\9.2.dll
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\9.2.pdb
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\9.2.genruntimeconfig.cache
+D:\Практика\9.2\9.2\obj\Debug\net8.0-windows\ref\9.2.dll
